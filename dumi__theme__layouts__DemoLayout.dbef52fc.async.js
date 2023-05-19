@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_metro_docs=self.webpackChunk_metro_docs||[]).push([[9252],{31003:function(m,n,t){t.r(n),t.d(n,{default:function(){return d}});var o=t(43058),u=t(14027),s=t(62086),d=function(){var r=(0,o.pC)();return(0,s.jsx)(u.Z,{children:r})}}}]);
