@@ -1,0 +1,513 @@
+[
+  {
+    "title": "Neutral",
+    "children": [
+      {
+        "color": "#ffffff",
+        "name": "Neutral-0"
+      },
+      {
+        "color": "#fcfcfc",
+        "name": "Neutral-1"
+      },
+      {
+        "color": "#f7f7f9",
+        "name": "Neutral-2"
+      },
+      {
+        "color": "#ebecf2",
+        "name": "Neutral-3"
+      },
+      {
+        "color": "#dddfe9",
+        "name": "Neutral-4"
+      },
+      {
+        "color": "#c7cad8",
+        "name": "Neutral-5"
+      },
+      {
+        "color": "#acb1c2",
+        "name": "Neutral-6"
+      },
+      {
+        "color": "#8e93a7",
+        "name": "Neutral-7"
+      },
+      {
+        "color": "#6f7487",
+        "name": "Neutral-8"
+      },
+      {
+        "color": "#505464",
+        "name": "Neutral-9"
+      },
+      {
+        "color": "#323540",
+        "name": "Neutral-10"
+      },
+      {
+        "color": "#24272F",
+        "name": "Neutral-11"
+      },
+      {
+        "color": "#17181e",
+        "name": "Neutral-12"
+      },
+      {
+        "color": "#000000",
+        "name": "Neutral-13"
+      }
+    ]
+  },
+  {
+    "title": "Royalblue",
+    "children": [
+      {
+        "color": "#f2f6fe",
+        "name": "Royalblue-0"
+      },
+      {
+        "color": "#dce5fd",
+        "name": "Royalblue-1"
+      },
+      {
+        "color": "#b9cbfb",
+        "name": "Royalblue-2"
+      },
+      {
+        "color": "#97b0f8",
+        "name": "Royalblue-3"
+      },
+      {
+        "color": "#7694f6",
+        "name": "Royalblue-4"
+      },
+      {
+        "color": "#5578f4",
+        "name": "Royalblue-5"
+      },
+      {
+        "color": "#425fd0",
+        "name": "Royalblue-6"
+      },
+      {
+        "color": "#3249ad",
+        "name": "Royalblue-7"
+      },
+      {
+        "color": "#233589",
+        "name": "Royalblue-8"
+      },
+      {
+        "color": "#172365",
+        "name": "Royalblue-9"
+      }
+    ]
+  },
+  {
+    "title": "Green",
+    "children": [
+      {
+        "color": "#e6f4ed",
+        "name": "Green-0"
+      },
+      {
+        "color": "#c5ead8",
+        "name": "Green-1"
+      },
+      {
+        "color": "#92d4b5",
+        "name": "Green-2"
+      },
+      {
+        "color": "#66bf97",
+        "name": "Green-3"
+      },
+      {
+        "color": "#40a97c",
+        "name": "Green-4"
+      },
+      {
+        "color": "#219464",
+        "name": "Green-5"
+      },
+      {
+        "color": "#1a7b54",
+        "name": "Green-6"
+      },
+      {
+        "color": "#146344",
+        "name": "Green-7"
+      },
+      {
+        "color": "#0e4a34",
+        "name": "Green-8"
+      },
+      {
+        "color": "#093123",
+        "name": "Green-9"
+      }
+    ]
+  },
+  {
+    "title": "Red",
+    "children": [
+      {
+        "color": "#fcf1ed",
+        "name": "Red-0"
+      },
+      {
+        "color": "#f9dcd2",
+        "name": "Red-1"
+      },
+      {
+        "color": "#f4b8a6",
+        "name": "Red-2"
+      },
+      {
+        "color": "#ee9270",
+        "name": "Red-3"
+      },
+      {
+        "color": "#e96c55",
+        "name": "Red-4"
+      },
+      {
+        "color": "#e3452f",
+        "name": "Red-5"
+      },
+      {
+        "color": "#bf3022",
+        "name": "Red-6"
+      },
+      {
+        "color": "#9c1e17",
+        "name": "Red-7"
+      },
+      {
+        "color": "#78100e",
+        "name": "Red-8"
+      },
+      {
+        "color": "#540708",
+        "name": "Red-9"
+      }
+    ]
+  },
+  {
+    "title": "Orange",
+    "children": [
+      {
+        "color": "#fcf6f9",
+        "name": "Orange-0"
+      },
+      {
+        "color": "#f9eaca",
+        "name": "Orange-1"
+      },
+      {
+        "color": "#f4d297",
+        "name": "Orange-2"
+      },
+      {
+        "color": "#eeb866",
+        "name": "Orange-3"
+      },
+      {
+        "color": "#e99d37",
+        "name": "Orange-4"
+      },
+      {
+        "color": "#e37f0a",
+        "name": "Orange-5"
+      },
+      {
+        "color": "#bd6006",
+        "name": "Orange-6"
+      },
+      {
+        "color": "#974504",
+        "name": "Orange-7"
+      },
+      {
+        "color": "#722d02",
+        "name": "Orange-8"
+      },
+      {
+        "color": "#4c1a00",
+        "name": "Orange-9"
+      }
+    ]
+  },
+  {
+    "title": "Yellow",
+    "children": [
+      {
+        "color": "#fefcee",
+        "name": "Yellow-0"
+      },
+      {
+        "color": "#fef8d4",
+        "name": "Yellow-1"
+      },
+      {
+        "color": "#fdeda9",
+        "name": "Yellow-2"
+      },
+      {
+        "color": "#fbe17f",
+        "name": "Yellow-3"
+      },
+      {
+        "color": "#fad155",
+        "name": "Yellow-4"
+      },
+      {
+        "color": "#f9af2b",
+        "name": "Yellow-5"
+      },
+      {
+        "color": "#d09622",
+        "name": "Yellow-6"
+      },
+      {
+        "color": "#a67019",
+        "name": "Yellow-7"
+      },
+      {
+        "color": "#7d4e12",
+        "name": "Yellow-8"
+      },
+      {
+        "color": "#53300b",
+        "name": "Yellow-9"
+      }
+    ]
+  },
+  {
+    "title": "Lime",
+    "children": [
+      {
+        "color": "#f6faea",
+        "name": "Lime-0"
+      },
+      {
+        "color": "#e9f5cd",
+        "name": "Lime-1"
+      },
+      {
+        "color": "#d3eb9e",
+        "name": "Lime-2"
+      },
+      {
+        "color": "#bde272",
+        "name": "Lime-3"
+      },
+      {
+        "color": "#a6d849",
+        "name": "Lime-4"
+      },
+      {
+        "color": "#90ce24",
+        "name": "Lime-5"
+      },
+      {
+        "color": "#75ac1c",
+        "name": "Lime-6"
+      },
+      {
+        "color": "#5b8915",
+        "name": "Lime-7"
+      },
+      {
+        "color": "#42670f",
+        "name": "Lime-8"
+      },
+      {
+        "color": "#2b4509",
+        "name": "Lime-9"
+      }
+    ]
+  },
+  {
+    "title": "Cyan",
+    "children": [
+      {
+        "color": "#e9f6f8",
+        "name": "Cyan-0"
+      },
+      {
+        "color": "#c9edf0",
+        "name": "Cyan-1"
+      },
+      {
+        "color": "#99dae1",
+        "name": "Cyan-2"
+      },
+      {
+        "color": "#6dc6d2",
+        "name": "Cyan-3"
+      },
+      {
+        "color": "#45b2c3",
+        "name": "Cyan-4"
+      },
+      {
+        "color": "#239eb4",
+        "name": "Cyan-5"
+      },
+      {
+        "color": "#1c8196",
+        "name": "Cyan-6"
+      },
+      {
+        "color": "#156678",
+        "name": "Cyan-7"
+      },
+      {
+        "color": "#0f4b5a",
+        "name": "Cyan-8"
+      },
+      {
+        "color": "#09313c",
+        "name": "Cyan-9"
+      }
+    ]
+  },
+  {
+    "title": "Indigo",
+    "children": [
+      {
+        "color": "#eceef7",
+        "name": "Indigo-0"
+      },
+      {
+        "color": "#d1d5f0",
+        "name": "Indigo-1"
+      },
+      {
+        "color": "#a6ade1",
+        "name": "Indigo-2"
+      },
+      {
+        "color": "#8088d1",
+        "name": "Indigo-3"
+      },
+      {
+        "color": "#5e66c2",
+        "name": "Indigo-4"
+      },
+      {
+        "color": "#3f47b3",
+        "name": "Indigo-5"
+      },
+      {
+        "color": "#33399f",
+        "name": "Indigo-6"
+      },
+      {
+        "color": "#282c8a",
+        "name": "Indigo-7"
+      },
+      {
+        "color": "#1f2176",
+        "name": "Indigo-8"
+      },
+      {
+        "color": "#171761",
+        "name": "Indigo-9"
+      }
+    ]
+  },
+  {
+    "title": "Violet",
+    "children": [
+      {
+        "color": "#f5eef9",
+        "name": "Violet-0"
+      },
+      {
+        "color": "#e6d4f3",
+        "name": "Violet-1"
+      },
+      {
+        "color": "#cdace8",
+        "name": "Violet-2"
+      },
+      {
+        "color": "#b386dc",
+        "name": "Violet-3"
+      },
+      {
+        "color": "#9964d1",
+        "name": "Violet-4"
+      },
+      {
+        "color": "#7f45c5",
+        "name": "Violet-5"
+      },
+      {
+        "color": "#6b39b1",
+        "name": "Violet-6"
+      },
+      {
+        "color": "#582d9c",
+        "name": "Violet-7"
+      },
+      {
+        "color": "#472388",
+        "name": "Violet-8"
+      },
+      {
+        "color": "#371b73",
+        "name": "Violet-9"
+      }
+    ]
+  },
+  {
+    "title": "Pink",
+    "children": [
+      {
+        "color": "#fdefef",
+        "name": "Pink-0"
+      },
+      {
+        "color": "#fad6d7",
+        "name": "Pink-1"
+      },
+      {
+        "color": "#f5afb2",
+        "name": "Pink-2"
+      },
+      {
+        "color": "#f08991",
+        "name": "Pink-3"
+      },
+      {
+        "color": "#eb6473",
+        "name": "Pink-4"
+      },
+      {
+        "color": "#e64159",
+        "name": "Pink-5"
+      },
+      {
+        "color": "#c2314b",
+        "name": "Pink-6"
+      },
+      {
+        "color": "#9f233d",
+        "name": "Pink-7"
+      },
+      {
+        "color": "#7b1830",
+        "name": "Pink-8"
+      },
+      {
+        "color": "#570e23",
+        "name": "Pink-9"
+      }
+    ]
+  }
+]

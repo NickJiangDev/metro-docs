@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Primary",
+    "data": [
+      {
+        "st": "--metro-primary-default",
+        "gt": "Royalblue-4",
+        "usage": "品牌主色；主要用于主按钮背景色及文字颜色"
+      },
+      {
+        "st": "--metro-primary-hover",
+        "gt": "Royalblue-5",
+        "usage": "主色悬浮态；主要用于主按钮背景色及文字颜色"
+      },
+      {
+        "st": "--metro-primary-active",
+        "gt": "Royalblue-3",
+        "usage": "主色激活态；主要用于主按钮背景色及文字颜色"
+      },
+      {
+        "st": "--metro-primary-disabled",
+        "gt": "Royalblue-1",
+        "usage": "主色禁用态；主要用于主按钮背景色及文字颜色"
+      },
+      {
+        "st": "--metro-primary-light-0",
+        "gt": "Royalblue-4",
+        "a": 0.1,
+        "usage": "主色深色背景色"
+      },
+      {
+        "st": "--metro-primary-light-1",
+        "gt": "Royalblue-4",
+        "a": 0.2,
+        "usage": "主色深色背景色"
+      },
+      {
+        "st": "--metro-primary-light-2",
+        "gt": "Royalblue-4",
+        "a": 0.3,
+        "usage": "主色深色背景色"
+      },
+      {
+        "st": "--metro-primary-tp-0",
+        "gt": "Royalblue-4",
+        "a": 0.1,
+        "usage": "主色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-primary-tp-1",
+        "gt": "Royalblue-4",
+        "a": 0.15,
+        "usage": "主色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-primary-tp-2",
+        "gt": "Royalblue-4",
+        "a": 0.2,
+        "usage": "主色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-primary-border-0",
+        "gt": "Royalblue-1",
+        "usage": "主色深色描边"
+      },
+      {
+        "st": "--metro-primary-border-1",
+        "gt": "Royalblue-4",
+        "usage": "主色基础描边"
+      }
+    ]
+  },
+  {
+    "title": "Secondary",
+    "data": [
+      {
+        "st": "--metro-secondary-default",
+        "gt": "Neutral-5",
+        "usage": "中性色；主要用于一些组件背景色"
+      },
+      {
+        "st": "--metro-secondary-disabled",
+        "gt": "Neutral-4",
+        "usage": "中性色；SecondaryBtn的disable状态"
+      },
+      {
+        "st": "--metro-secondary-0",
+        "gt": "Neutral-8",
+        "usage": "中性色；主要用于一些组件背景色"
+      },
+      {
+        "st": "--metro-secondary-1",
+        "gt": "Neutral-3",
+        "usage": "中性色；主要用于一些组件背景色"
+      },
+      {
+        "st": "--metro-secondary-light-0",
+        "gt": "Neutral-8",
+        "a": 0.1,
+        "usage": "中性色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-secondary-light-1",
+        "gt": "Neutral-8",
+        "a": 0.15,
+        "usage": "中性色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-secondary-light-2",
+        "gt": "Neutral-8",
+        "a": 0.2,
+        "usage": "中性色深色背景色，有透明度，适合一些交互状态"
+      }
+    ]
+  },
+  {
+    "title": "Bg",
+    "data": [
+      {
+        "st": "--metro-bg-0",
+        "gt": "Neutral-1",
+        "usage": "背景色——最下层"
+      },
+      {
+        "st": "--metro-bg-1",
+        "gt": "Neutral-2",
+        "usage": "背景色——次下层（最下层上方需要提升的内容）"
+      },
+      {
+        "st": "--metro-bg-2",
+        "gt": "Neutral-2",
+        "usage": "背景色——中间层（弹窗、抽屉等模态容器）"
+      },
+      {
+        "st": "--metro-bg-3",
+        "gt": "Neutral-3",
+        "usage": "背景色——浮层（菜单、气泡确认框、toast、通知等）"
+      },
+      {
+        "st": "--metro-bg-header",
+        "gt": "Neutral-2",
+        "usage": "顶栏导航背景色"
+      },
+      {
+        "st": "--metro-bg-sider",
+        "gt": "Neutral-2",
+        "usage": "侧栏导航背景色"
+      },
+      {
+        "st": "--metro-bg-overlay",
+        "gt": "Neutral-0",
+        "a": 0.6,
+        "usage": "蒙层颜色"
+      },
+      {
+        "st": "--metro-bg-dark",
+        "gt": "Neutral-0",
+        "usage": "Tooltip 背景色"
+      }
+    ]
+  },
+  {
+    "title": "Fill",
+    "data": [
+      {
+        "st": "--metro-fill-0",
+        "gt": "Neutral-8",
+        "a": 0.1,
+        "usage": "元素所处容器背景颜色不固定时，使用带透明度的填充色保证元素不会融于背景"
+      },
+      {
+        "st": "--metro-fill-1",
+        "gt": "Neutral-8",
+        "a": 0.15,
+        "usage": "元素所处容器背景颜色不固定时，使用带透明度的填充色保证元素不会融于背景"
+      },
+      {
+        "st": "--metro-fill-2",
+        "gt": "Neutral-8",
+        "a": 0.2,
+        "usage": "元素所处容器背景颜色不固定时，使用带透明度的填充色保证元素不会融于背景"
+      }
+    ]
+  },
+  {
+    "title": "Text",
+    "data": [
+      {
+        "st": "--metro-text-0",
+        "gt": "Neutral-12",
+        "usage": "一级文本色"
+      },
+      {
+        "st": "--metro-text-1",
+        "gt": "Neutral-11",
+        "a": 0.85,
+        "usage": "二级文本色"
+      },
+      {
+        "st": "--metro-text-2",
+        "gt": "Neutral-11",
+        "a": 0.55,
+        "usage": "三级文本色"
+      },
+      {
+        "st": "--metro-text-3",
+        "gt": "Neutral-11",
+        "a": 0.25,
+        "usage": "输入提示文本，禁用文本色"
+      },
+      {
+        "st": "--metro-text-static-0",
+        "gt": "Neutral-13",
+        "usage": "一级文本色；应用在深色背景上"
+      },
+      {
+        "st": "--metro-text-static-1",
+        "gt": "Neutral-13",
+        "a": 0.8,
+        "usage": "二级文本色；应用在深色背景上"
+      },
+      {
+        "st": "--metro-text-static-2",
+        "gt": "Neutral-13",
+        "a": 0.45,
+        "usage": "禁用态文字颜色；应用在深色背景上"
+      },
+      {
+        "st": "--metro-text-static-3",
+        "gt": "Neutral-13",
+        "a": 0.25,
+        "usage": "禁用态文字颜色；应用在深色（稍浅）背景上"
+      }
+    ]
+  },
+  {
+    "title": "Border&Divider",
+    "data": [
+      {
+        "st": "--metro-border-0",
+        "gt": "Neutral-6",
+        "usage": "深色描边"
+      },
+      {
+        "st": "--metro-border-1",
+        "gt": "Neutral-7",
+        "usage": "基础描边"
+      },
+      {
+        "st": "--metro-border-tp",
+        "gt": "Neutral-8",
+        "a": 0.15,
+        "usage": "透明色描边"
+      },
+      {
+        "st": "--metro-divider-0",
+        "gt": "Neutral-4",
+        "usage": "bg0的分割线"
+      },
+      {
+        "st": "--metro-divider-1",
+        "gt": "Neutral-5",
+        "usage": "bg1、2、3分割线"
+      },
+      {
+        "st": "--metro-divider-tp",
+        "gt": "Neutral-8",
+        "a": 0.15,
+        "usage": "透明色分割线"
+      }
+    ]
+  },
+  {
+    "title": "Success",
+    "data": [
+      {
+        "st": "--metro-success-default",
+        "gt": "Green-4",
+        "usage": "成功色"
+      },
+      {
+        "st": "--metro-success-hover",
+        "gt": "Green-5",
+        "usage": "成功色悬浮态"
+      },
+      {
+        "st": "--metro-success-active",
+        "gt": "Green-3",
+        "usage": "成功色激活态"
+      },
+      {
+        "st": "--metro-success-disabled",
+        "gt": "Green-1",
+        "usage": "成功色禁用态"
+      },
+      {
+        "st": "--metro-success-light-0",
+        "gt": "Green-4",
+        "a": 0.1,
+        "usage": "成功色深色背景色"
+      },
+      {
+        "st": "--metro-success-light-1",
+        "gt": "Green-4",
+        "a": 0.2,
+        "usage": "成功色深色背景色"
+      },
+      {
+        "st": "--metro-success-light-2",
+        "gt": "Green-4",
+        "a": 0.3,
+        "usage": "成功色深色背景色"
+      },
+      {
+        "st": "--metro-success-tp-0",
+        "gt": "Green-4",
+        "a": 0.1,
+        "usage": "成功色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-success-tp-1",
+        "gt": "Green-4",
+        "a": 0.15,
+        "usage": "成功色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-success-tp-2",
+        "gt": "Green-4",
+        "a": 0.2,
+        "usage": "成功色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-success-border-0",
+        "gt": "Green-1",
+        "usage": "成功色深色描边"
+      },
+      {
+        "st": "--metro-success-border-1",
+        "gt": "Green-4",
+        "usage": "成功色基础描边"
+      }
+    ]
+  },
+  {
+    "title": "Danger",
+    "data": [
+      {
+        "st": "--metro-danger-default",
+        "gt": "Red-4",
+        "usage": "危险色"
+      },
+      {
+        "st": "--metro-danger-hover",
+        "gt": "Red-5",
+        "usage": "危险色悬浮态"
+      },
+      {
+        "st": "--metro-danger-active",
+        "gt": "Red-3",
+        "usage": "危险色激活态"
+      },
+      {
+        "st": "--metro-danger-disabled",
+        "gt": "Red-1",
+        "usage": "危险色禁用态"
+      },
+      {
+        "st": "--metro-danger-light-0",
+        "gt": "Red-4",
+        "a": 0.1,
+        "usage": "危险色深色背景色"
+      },
+      {
+        "st": "--metro-danger-light-1",
+        "gt": "Red-4",
+        "a": 0.2,
+        "usage": "危险色深色背景色"
+      },
+      {
+        "st": "--metro-danger-light-2",
+        "gt": "Red-4",
+        "a": 0.3,
+        "usage": "危险色深色背景色"
+      },
+      {
+        "st": "--metro-danger-tp-0",
+        "gt": "Red-4",
+        "a": 0.1,
+        "usage": "危险色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-danger-tp-1",
+        "gt": "Red-4",
+        "a": 0.15,
+        "usage": "危险色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-danger-tp-2",
+        "gt": "Red-4",
+        "a": 0.2,
+        "usage": "危险色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-danger-border-0",
+        "gt": "Red-1",
+        "usage": "危险色深色描边"
+      },
+      {
+        "st": "--metro-danger-border-1",
+        "gt": "Red-4",
+        "usage": "危险色基础描边"
+      }
+    ]
+  },
+  {
+    "title": "Warning",
+    "data": [
+      {
+        "st": "--metro-warning-default",
+        "gt": "Orange-4",
+        "usage": "警告色"
+      },
+      {
+        "st": "--metro-warning-hover",
+        "gt": "Orange-5",
+        "usage": "警告色悬浮态"
+      },
+      {
+        "st": "--metro-warning-active",
+        "gt": "Orange-3",
+        "usage": "警告色激活态"
+      },
+      {
+        "st": "--metro-warning-disabled",
+        "gt": "Orange-1",
+        "usage": "警告色禁用态"
+      },
+      {
+        "st": "--metro-warning-light-0",
+        "gt": "Orange-4",
+        "a": 0.1,
+        "usage": "警告色深色背景色"
+      },
+      {
+        "st": "--metro-warning-light-1",
+        "gt": "Orange-4",
+        "a": 0.2,
+        "usage": "警告色深色背景色"
+      },
+      {
+        "st": "--metro-warning-light-2",
+        "gt": "Orange-4",
+        "a": 0.3,
+        "usage": "警告色深色背景色"
+      },
+      {
+        "st": "--metro-warning-tp-0",
+        "gt": "Orange-4",
+        "a": 0.1,
+        "usage": "警告色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-warning-tp-1",
+        "gt": "Orange-4",
+        "a": 0.15,
+        "usage": "警告色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-warning-tp-2",
+        "gt": "Orange-4",
+        "a": 0.2,
+        "usage": "警告色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-warning-border-0",
+        "gt": "Orange-1",
+        "usage": "警告色深色描边"
+      },
+      {
+        "st": "--metro-warning-border-1",
+        "gt": "Orange-4",
+        "usage": "警告色基础描边"
+      }
+    ]
+  },
+  {
+    "title": "Info",
+    "data": [
+      {
+        "st": "--metro-info-default",
+        "gt": "Royalblue-4",
+        "usage": "信息色"
+      },
+      {
+        "st": "--metro-info-hover",
+        "gt": "Royalblue-5",
+        "usage": "信息色悬浮态"
+      },
+      {
+        "st": "--metro-info-active",
+        "gt": "Royalblue-3",
+        "usage": "信息色激活态"
+      },
+      {
+        "st": "--metro-info-disabled",
+        "gt": "Royalblue-1",
+        "usage": "信息色禁用态"
+      },
+      {
+        "st": "--metro-info-light-0",
+        "gt": "Royalblue-4",
+        "a": 0.1,
+        "usage": "信息色深色背景色"
+      },
+      {
+        "st": "--metro-info-light-1",
+        "gt": "Royalblue-4",
+        "a": 0.2,
+        "usage": "信息色深色背景色"
+      },
+      {
+        "st": "--metro-info-light-2",
+        "gt": "Royalblue-4",
+        "a": 0.3,
+        "usage": "信息色深色背景色"
+      },
+      {
+        "st": "--metro-info-tp-0",
+        "gt": "Royalblue-4",
+        "a": 0.1,
+        "usage": "信息色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-info-tp-1",
+        "gt": "Royalblue-4",
+        "a": 0.15,
+        "usage": "信息色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-info-tp-2",
+        "gt": "Royalblue-4",
+        "a": 0.2,
+        "usage": "信息色深色背景色，有透明度，适合一些交互状态"
+      },
+      {
+        "st": "--metro-info-border-0",
+        "gt": "Royalblue-1",
+        "usage": "信息色深色描边"
+      },
+      {
+        "st": "--metro-info-border-1",
+        "gt": "Royalblue-4",
+        "usage": "信息色基础描边"
+      }
+    ]
+  },
+  {
+    "title": "Shadows",
+    "data": [
+      {
+        "st": "--metro-shadow-button",
+        "gt": "0px 3px 6px rgba(21, 26, 36, 0.15)",
+        "usage": "按钮描边"
+      },
+      {
+        "st": "--metro-shadow-layout",
+        "gt": "0px 6px 12px rgba(21, 26, 36, 0.35)",
+        "usage": "Layout 描边"
+      },
+      {
+        "st": "--metro-shadow-modal",
+        "gt": "0px 8px 24px rgba(21, 26, 36, 0.55)",
+        "usage": "弹出框描边"
+      },
+      {
+        "st": "--metro-focus-primary",
+        "gt": "0px 0px 0px 2px rgba(84, 141, 246, 0.2)",
+        "usage": "品牌色描边"
+      },
+      {
+        "st": "--metro-focus-info",
+        "gt": "0px 0px 0px 2px rgba(84, 141, 246, 0.2)",
+        "usage": "信息色描边"
+      },
+      {
+        "st": "--metro-focus-danger",
+        "gt": "0px 0px 0px 2px rgba(245, 90, 103, 0.2)",
+        "usage": "危险色描边"
+      },
+      {
+        "st": "--metro-focus-success",
+        "gt": "0px 0px 0px 2px rgba(19, 162, 123, 0.2)",
+        "usage": "成功色描边"
+      },
+      {
+        "st": "--metro-focus-warning",
+        "gt": "0px 0px 0px 2px rgba(226, 110, 49, 0.2)",
+        "usage": "警告色描边"
+      }
+    ]
+  }
+]
